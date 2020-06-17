@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/AmauD/FoxGame#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.21.2",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.5"
   }
 }
